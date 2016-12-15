@@ -1,0 +1,17 @@
+//
+//  AppDelegate.h
+//  PPPP
+//
+//  Created by 裴昌宝 on 2016/12/15.
+//  Copyright © 2016年 裴昌宝. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface AppDelegate : UIResponder <UIApplicationDelegate>
+
+@property (strong, nonatomic) UIWindow *window;
+
+
+@end
+
